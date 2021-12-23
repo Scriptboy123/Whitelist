@@ -1,0 +1,16 @@
+userids = {
+[3081401083] = true,
+[3123912470] = true,
+[] = true,
+[] = true,
+[] = true,
+[] = true,
+[] = true,
+] = true,
+[] = true,
+[] = true,
+[] = true,
+[] = true,
+[] = true,
+}
+return userids
